@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1559646993 source:c:\users\dslog\onedrive\documents\programming\c\serialclib\serialc.c
+	"SerialC.h"
+
+1559646950 c:\users\dslog\onedrive\documents\programming\c\serialclib\serialc.h
+	<windows.h>
+	<stdlib.h>
+	<inttypes.h>
+	<string.h>
+	<stdio.h>
+
